@@ -2,6 +2,8 @@
 
 ## Overview
 EmoTrend is an innovative project aimed at exploring the impact of sentiment analysis on stock market predictions. Focusing on the intricate relationship between news sentiment and stock market performance. Our study delves into sector-level and individual stock analysis, utilizing advanced data processing and machine learning techniques.
+<img width="1543" alt="image" src="https://github.com/KAIwangke/EmoTrend-Sentiment-Driven-Stock-Prediction/assets/46043861/53b40b29-8cb0-4c53-bec6-b8a8088fd415">
+
 
 ## Components
 - `experiments`: This directory houses our experimental models, including various machine learning algorithms and statistical methods tailored for stock market prediction ultilizing Apache Spark MLlib.
@@ -27,6 +29,9 @@ The EmoTrend project employs a diverse array of data sources, including but not 
 
 ## Findings
 Our findings reveal a nuanced picture of sentiment analysis's role in stock market prediction. While the results are mixed, they highlight promising avenues for further exploration, especially in the context of individual stock analysis.
+<img width="1897" alt="image" src="https://github.com/KAIwangke/EmoTrend-Sentiment-Driven-Stock-Prediction/assets/46043861/5a384c79-5c97-4429-add4-2abf3e4d4639">
+<img width="1342" alt="image" src="https://github.com/KAIwangke/EmoTrend-Sentiment-Driven-Stock-Prediction/assets/46043861/f6dac718-52d3-4968-870d-3c2fcf9825d4">
+<img width="1875" alt="image" src="https://github.com/KAIwangke/EmoTrend-Sentiment-Driven-Stock-Prediction/assets/46043861/a53df858-32ed-443a-bcde-84b7fda93615">
 
 ## Usage
 Each directory contains detailed instructions on setup, dependencies, and execution steps for the experiments and analyses conducted in this project.
