@@ -1,7 +1,7 @@
 # EmoTrend: Sentiment-Driven Stock Market Predictions
 
 ## Overview
-EmoTrend is an innovative project aimed at exploring the impact of sentiment analysis on stock market predictions. Focusing on the intricate relationship between news sentiment and stock market performance. Our study delves into sector-level and individual stock analysis, utilizing Apache Spark MLlib and HDFS.
+EmoTrend is an innovative project aimed at exploring the impact of sentiment analysis on stock market predictions. Focusing on the intricate relationship between news sentiment and stock market performance. Our study delves into sector-level and individual stock analysis, utilizing `Apache Spark MLlib` and `HDFS`.
 <img width="1543" alt="image" src="https://github.com/KAIwangke/EmoTrend-Sentiment-Driven-Stock-Prediction/assets/46043861/53b40b29-8cb0-4c53-bec6-b8a8088fd415">
 
 
